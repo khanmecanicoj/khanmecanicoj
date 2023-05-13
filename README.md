@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @khanmecanicoj
+- 🌱 I’m currently learning about nodes
